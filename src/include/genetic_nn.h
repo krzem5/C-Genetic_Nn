@@ -38,8 +38,6 @@ struct _NEURAL_NETWORK{
 	uint16_t* l;
 	float** w;
 	float** b;
-	float _e;
-	float _lf;
 };
 
 
